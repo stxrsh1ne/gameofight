@@ -1,0 +1,1 @@
+class Enemy(attack: Int, defence: Int, name: String, health: Int) : Creature(attack, defence, health, name)
